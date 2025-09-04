@@ -1,3 +1,4 @@
 systemutveckling-vecka2
 skillnaden mellan vattenfall och agilt 
 Vattenfall - Arbete sker steg för steg dvs krav-Deisgn-bygga-Test. Det är bra när allt är tydligt i början, och är svårt när man ska ändra i fterhand.                                         Agile - Man jobbar i små delar och testar ofta. Efter varje steg kan man ändra om något behövs. Det är flexibelt, kunden få se resultat snabbt och kan ges feedback, risken minskar att bygga fel
+Fråga 2 - Vad ör ett Git-commit och varför är det viktigt? Ett commit är en sparad version av koden. Det är viktigt för att se vad som ändrats och för att kunna gå tillbaka om något går fel. Exempel - man committar innan man testar ny kod, så att man kan rulla tillbaka om det kraschar.
