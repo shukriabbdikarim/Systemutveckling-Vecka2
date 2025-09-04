@@ -1,0 +1,3 @@
+systemutveckling-vecka2
+skillnaden mellan vattenfall och agilt 
+Vattenfall - Arbete sker steg för steg dvs krav-Deisgn-bygga-Test. Det är bra när allt är tydligt i början, och är svårt när man ska ändra i fterhand.                                         Agile - Man jobbar i små delar och testar ofta. Efter varje steg kan man ändra om något behövs. Det är flexibelt, kunden få se resultat snabbt och kan ges feedback, risken minskar att bygga fel
